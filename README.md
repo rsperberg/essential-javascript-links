@@ -13,28 +13,28 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Required Reading (Online resources)
 
-* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - One clear path to JavaScript mastery
+* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) — One clear path to JavaScript mastery
 * [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245) 99 out of 100 JS developers lack the skills they need to fill hundreds of thousands of jobs. We can change that.
 * [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 * [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
 * [Isomorphic JavaScript](http://isomorphic.net/)
-* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) - Addy Osmani
+* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) — Addy Osmani
 * [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user.
 * [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible.
 * [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
-* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) - Excellent post about the state of typed JavaScript by Axel Rauschmayer
-* [Taming the Asynchronous Beast with CSP in JavaScript](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript) - James Long
+* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) — Excellent post about the state of typed JavaScript by Axel Rauschmayer
+* [Taming the Asynchronous Beast with CSP in JavaScript](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript) — James Long
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
 
 
 ## Required Viewing
-* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) - by [Eric Elliott](https://twitter.com/_ericelliott)
-* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) - [Jafar Husain](https://twitter.com/jhusain)
-* [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) - [David Nolen](https://twitter.com/swannodette)
+* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) — by [Eric Elliott](https://twitter.com/_ericelliott)
+* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) — [Jafar Husain](https://twitter.com/jhusain)
+* [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) — [David Nolen](https://twitter.com/swannodette)
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
-* [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times.
+* [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today — page load times.
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey)
 
 
@@ -67,7 +67,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Node Inspector](https://github.com/node-inspector/node-inspector) Debug Node code with the Chrome debug tools
 * [TraceGL](https://github.com/traceglMPL/tracegl) Powerful runtime analysis of live JavaScript code
 * [Tern](http://ternjs.net/) Static analysis in JavaScript
-* [JSDoc](http://usejsdoc.org/) - Pair with [Tern](http://ternjs.net/) for static analysis
+* [JSDoc](http://usejsdoc.org/) — Pair with [Tern](http://ternjs.net/) for static analysis
 * [Nitrous.IO](https://www.nitrous.io/join/uJcRo6yQDvs?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral) (Supports live collaboration / pair programming)
 * [Slack](http://slack.com) Chat for teams, with GitHub and Google hangouts integration
   * For hangouts, just type /hangout in any channel
@@ -102,7 +102,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## JavaScript environments
 
 * [Node.js](http://nodejs.org/) Server side JavaScript and more
-* [io.js](https://iojs.org/) - The Node fork
+* [io.js](https://iojs.org/) — The Node fork
 
 
 ## Libraries
@@ -116,17 +116,17 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill.
 * [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
-* [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
+* [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites — for good reason.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales)
 * [Express](http://expressjs.com/) The most popular framework for Node
-* [Stampit](https://github.com/ericelliott/stampit) Stampit - create objects from reusable, composable behaviors. Prototypal inheritance with stamps.
+* [Stampit](https://github.com/ericelliott/stampit) Stampit — create objects from reusable, composable behaviors. Prototypal inheritance with stamps.
 * [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential
-* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead
+* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken — use cuid, instead
 * [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library
-* [json-schema](https://github.com/kriszyp/json-schema) - Great for model validations
+* [json-schema](https://github.com/kriszyp/json-schema) — Great for model validations
 
 
 ## Web Components
@@ -158,7 +158,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Node.js on Google+](https://plus.google.com/communities/115365528781941125390)
 * IRC ##JavaScript irc://irc.freenode.net/javascript
 * IRC #node.js irc://irc.freenode.net/node.js
-* IRC #io.js irc://irc.freenode.net/io.js - the Node fork
+* IRC #io.js irc://irc.freenode.net/io.js — the Node fork
 
 
 ## News
@@ -206,24 +206,24 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Twitter (alphabetical order)
 
-* [Addy Osmani](https://twitter.com/addyosmani) - App architecture expert, Chrome dev tools champion
-* [Angus Croll](https://twitter.com/angustweets) - Author, "If Hemingway Wrote JavaScript"
-* [Axel Rauschmayer](https://twitter.com/rauschma) - ES Next evangelist, author
-* [Brendan Eich](https://twitter.com/BrendanEich) - Created JavaScript
-* [David Nolen](https://twitter.com/swannodette) - Great functional programming content
-* [David Herman](https://twitter.com/littlecalculist) - Author, "Effective JavaScript"
-* [EchoJS](https://twitter.com/echojs) - News and links
-* [Eric Elliott](https://twitter.com/_ericelliott) - That's me. O'Reilly author. JavaScript architect. JS Instructor.
-* [Jafar Husain](https://twitter.com/jhusain) - Great talks on RxJS, ES next, etc...
-* [James Halliday](https://twitter.com/substack) aka Substack - author of ~one million~ Node modules you probably use.
-* [James Long](https://twitter.com/jlongster) - CSP, functional programming advocate, Mozilla developer
-* [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader) - Mover & shaker, JavaScript evangelist, documentary film maker
-* [JavaScript Daily](https://twitter.com/JavaScriptDaily) - News and links
-* [Jordan Harband](https://twitter.com/ljharb) - Keeping us ahead of the JS curve
-* [Kyle Simpson](https://twitter.com/getify) - Author, YDKJS - O'Reilly, JS Instructor, open web evangelist
-* [Marijn Haverbeke](https://twitter.com/marijnjh) - Author, "Eloquent JavaScript"
-* [Nicholas C. Zakas](https://twitter.com/slicknet) - Author, speaker
-* [Nick Morgan](https://twitter.com/skilldrick) - Author, "JavaScript for Kids"
-* [Paul Irish](https://twitter.com/paul_irish) - Developer evangelist, Chrome dev tools champion
-* [Reginald Braithwaite](https://twitter.com/raganwald) - Author, "JavaScript Allongé", speaker, GitHub
-* [YDKJS](https://twitter.com/ydkjs) - You Don't Know JS, O'Reilly book series by Kyle Simpson
+* [Addy Osmani](https://twitter.com/addyosmani) — App architecture expert, Chrome dev tools champion
+* [Angus Croll](https://twitter.com/angustweets) — Author, "If Hemingway Wrote JavaScript"
+* [Axel Rauschmayer](https://twitter.com/rauschma) — ES Next evangelist, author
+* [Brendan Eich](https://twitter.com/BrendanEich) — Created JavaScript
+* [David Nolen](https://twitter.com/swannodette) — Great functional programming content
+* [David Herman](https://twitter.com/littlecalculist) — Author, "Effective JavaScript"
+* [EchoJS](https://twitter.com/echojs) — News and links
+* [Eric Elliott](https://twitter.com/_ericelliott) — That's me. O'Reilly author. JavaScript architect. JS Instructor.
+* [Jafar Husain](https://twitter.com/jhusain) — Great talks on RxJS, ES next, etc...
+* [James Halliday](https://twitter.com/substack) aka Substack — author of ~one million~ Node modules you probably use.
+* [James Long](https://twitter.com/jlongster) — CSP, functional programming advocate, Mozilla developer
+* [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader) — Mover & shaker, JavaScript evangelist, documentary film maker
+* [JavaScript Daily](https://twitter.com/JavaScriptDaily) — News and links
+* [Jordan Harband](https://twitter.com/ljharb) — Keeping us ahead of the JS curve
+* [Kyle Simpson](https://twitter.com/getify) — Author, YDKJS — O'Reilly, JS Instructor, open web evangelist
+* [Marijn Haverbeke](https://twitter.com/marijnjh) — Author, "Eloquent JavaScript"
+* [Nicholas C. Zakas](https://twitter.com/slicknet) — Author, speaker
+* [Nick Morgan](https://twitter.com/skilldrick) — Author, "JavaScript for Kids"
+* [Paul Irish](https://twitter.com/paul_irish) — Developer evangelist, Chrome dev tools champion
+* [Reginald Braithwaite](https://twitter.com/raganwald) — Author, "JavaScript Allongé", speaker, GitHub
+* [YDKJS](https://twitter.com/ydkjs) — You Don't Know JS, O'Reilly book series by Kyle Simpson
