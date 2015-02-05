@@ -1,8 +1,8 @@
 # Essential JavaScript Links
 
-A curated list by Eric Elliott and friends. [Suggest links in the gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace).
+A curated list by Eric Elliott and friends. Suggest links in the [gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace#comment-1365676).
 
-Want to help turn this into a proper website? Check out the [open issues](https://github.com/ericelliott/essential-javascript-links/issues).
+[Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
 
 This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're good enough to make this list. The really curious should feel free to browse the comments to find other links. I can't guarantee the quality of links in the comments.
 
@@ -110,6 +110,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready.
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson
 * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
