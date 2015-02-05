@@ -4,7 +4,7 @@ A curated list by Eric Elliott and friends. Suggest links in the [gist comments]
 
 [Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
 
-This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're good enough to make this list. The really curious should feel free to browse the comments to find other links. I can't guarantee the quality of links in the comments.
+This is a very exclusive collection of only must-have JavaScript links. I’m only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they’re good enough to make this list. The really curious should feel free to browse the comments to find other links. I can’t guarantee the quality of links in the comments.
 
 ## Full Disclosure
 
@@ -20,7 +20,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
 * [Isomorphic JavaScript](http://isomorphic.net/)
 * [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) — Addy Osmani
-* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user.
+* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you’re not a React user.
 * [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible.
 * [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
@@ -52,7 +52,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ)
 * [Programming JavaScript Applications](http://pjabook.com)
 * [JavaScript: The Definitive Guide](http://www.amazon.com/gp/product/0596805527?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596805527&linkCode=shr&tag=ericleads-20&linkId=AENIF5KLRQI3N335)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
 * [Node.js in Action](http://www.manning.com/cantelon/)
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI)
@@ -61,7 +61,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Dev tools & collaboration
 
 * [nvm](https://github.com/creationix/nvm) First install this...
-* [Node](http://nodejs.org/) Then install Node (with nvm). You'll need this even if you're a front-end dev.
+* [Node](http://nodejs.org/) Then install Node (with nvm). You’ll need this even if you’re a front-end dev.
 * [npm](https://www.npmjs.com/) Install lots of other things with npm. **The package manager for JavaScript.** Comes with Node.
 * [Sublime Text 3](http://www.sublimetext.com/3)
 * [Node Inspector](https://github.com/node-inspector/node-inspector) Debug Node code with the Chrome debug tools
@@ -96,7 +96,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [CoffeeScript](http://coffeescript.org/)
 * [Emscripten](http://kripken.github.io/emscripten-site/) (frequently used for C/C++ JavaScript ports)
 * [Traceur](https://github.com/google/traceur-compiler) (ES.next)
-* [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani's ES6 Tools list
+* [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani’s ES6 Tools list
 
 
 ## JavaScript environments
@@ -111,14 +111,14 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
-* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) For educational use only. You'll want to cherry-pick the best of this for your production apps.
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) For educational use only. You’ll want to cherry-pick the best of this for your production apps.
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson.
 * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill.
 * [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites — for good reason.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor
-* [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+* [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What’s reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales)
 * [Express](http://expressjs.com/) The most popular framework for Node
@@ -213,17 +213,17 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [David Nolen](https://twitter.com/swannodette) — Great functional programming content
 * [David Herman](https://twitter.com/littlecalculist) — Author, "Effective JavaScript"
 * [EchoJS](https://twitter.com/echojs) — News and links
-* [Eric Elliott](https://twitter.com/_ericelliott) — That's me. O'Reilly author. JavaScript architect. JS Instructor.
+* [Eric Elliott](https://twitter.com/_ericelliott) — That’s me. O’Reilly author. JavaScript architect. JS Instructor.
 * [Jafar Husain](https://twitter.com/jhusain) — Great talks on RxJS, ES next, etc...
 * [James Halliday](https://twitter.com/substack) aka Substack — author of ~one million~ Node modules you probably use.
 * [James Long](https://twitter.com/jlongster) — CSP, functional programming advocate, Mozilla developer
 * [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader) — Mover & shaker, JavaScript evangelist, documentary film maker
 * [JavaScript Daily](https://twitter.com/JavaScriptDaily) — News and links
 * [Jordan Harband](https://twitter.com/ljharb) — Keeping us ahead of the JS curve
-* [Kyle Simpson](https://twitter.com/getify) — Author, YDKJS — O'Reilly, JS Instructor, open web evangelist
+* [Kyle Simpson](https://twitter.com/getify) — Author, YDKJS — O’Reilly, JS Instructor, open web evangelist
 * [Marijn Haverbeke](https://twitter.com/marijnjh) — Author, "Eloquent JavaScript"
 * [Nicholas C. Zakas](https://twitter.com/slicknet) — Author, speaker
 * [Nick Morgan](https://twitter.com/skilldrick) — Author, "JavaScript for Kids"
 * [Paul Irish](https://twitter.com/paul_irish) — Developer evangelist, Chrome dev tools champion
 * [Reginald Braithwaite](https://twitter.com/raganwald) — Author, "JavaScript Allongé", speaker, GitHub
-* [YDKJS](https://twitter.com/ydkjs) — You Don't Know JS, O'Reilly book series by Kyle Simpson
+* [YDKJS](https://twitter.com/ydkjs) — You Don’t Know JS, O’Reilly book series by Kyle Simpson
