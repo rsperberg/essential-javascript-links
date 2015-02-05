@@ -111,6 +111,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) For educational use only. You'll want to cherry-pick the best of this for your production apps.
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson
 * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
