@@ -35,7 +35,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) — [David Nolen](https://twitter.com/swannodette)
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
 * [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today — page load times.
-* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey)
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, “Simple Made Easy” by [Rich Hickey](https://twitter.com/richhickey)
 
 
 ## Spec
@@ -207,11 +207,11 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Twitter (alphabetical order)
 
 * [Addy Osmani](https://twitter.com/addyosmani) — App architecture expert, Chrome dev tools champion
-* [Angus Croll](https://twitter.com/angustweets) — Author, "If Hemingway Wrote JavaScript"
+* [Angus Croll](https://twitter.com/angustweets) — Author, “If Hemingway Wrote JavaScript”
 * [Axel Rauschmayer](https://twitter.com/rauschma) — ES Next evangelist, author
 * [Brendan Eich](https://twitter.com/BrendanEich) — Created JavaScript
 * [David Nolen](https://twitter.com/swannodette) — Great functional programming content
-* [David Herman](https://twitter.com/littlecalculist) — Author, "Effective JavaScript"
+* [David Herman](https://twitter.com/littlecalculist) — Author, “Effective JavaScript”
 * [EchoJS](https://twitter.com/echojs) — News and links
 * [Eric Elliott](https://twitter.com/_ericelliott) — That’s me. O’Reilly author. JavaScript architect. JS Instructor.
 * [Jafar Husain](https://twitter.com/jhusain) — Great talks on RxJS, ES next, etc...
@@ -221,9 +221,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Daily](https://twitter.com/JavaScriptDaily) — News and links
 * [Jordan Harband](https://twitter.com/ljharb) — Keeping us ahead of the JS curve
 * [Kyle Simpson](https://twitter.com/getify) — Author, YDKJS — O’Reilly, JS Instructor, open web evangelist
-* [Marijn Haverbeke](https://twitter.com/marijnjh) — Author, "Eloquent JavaScript"
+* [Marijn Haverbeke](https://twitter.com/marijnjh) — Author, “Eloquent JavaScript”
 * [Nicholas C. Zakas](https://twitter.com/slicknet) — Author, speaker
-* [Nick Morgan](https://twitter.com/skilldrick) — Author, "JavaScript for Kids"
+* [Nick Morgan](https://twitter.com/skilldrick) — Author, “JavaScript for Kids”
 * [Paul Irish](https://twitter.com/paul_irish) — Developer evangelist, Chrome dev tools champion
-* [Reginald Braithwaite](https://twitter.com/raganwald) — Author, "JavaScript Allongé", speaker, GitHub
+* [Reginald Braithwaite](https://twitter.com/raganwald) — Author, “JavaScript Allongé,” speaker, GitHub
 * [YDKJS](https://twitter.com/ydkjs) — You Don’t Know JS, O’Reilly book series by Kyle Simpson
