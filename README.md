@@ -112,8 +112,10 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) For educational use only. You'll want to cherry-pick the best of this for your production apps.
-* [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson
-* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill
+* [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson.
+* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill.
+* [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
+* [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
