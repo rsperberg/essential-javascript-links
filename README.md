@@ -179,7 +179,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Contests
 
 * [DemoJS](http://demojs.org/) The JavaScript demoscene party
-* [JS1k](http://js1k.com/) JavaScript domes in 1k of memory
+* [JS1k](http://js1k.com/) JavaScript demos in 1k of memory
 * [JS13k Games](http://js13kgames.com/) JavaScript games in 13k of memory
 * [FightCode game](http://fightcodegame.com/) program virtual battle bots and climb the leaderboard
 * [Node Knockout](http://nodeknockout.com/) The legendary Node competition
