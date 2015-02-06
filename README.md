@@ -111,22 +111,23 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimantal. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
-* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) For educational use only. You'll want to cherry-pick the best of this for your production apps.
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com).
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson.
-* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/) standard polyfill.
+* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/). standard polyfill.
 * [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
-* [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor
+* [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor.
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+* [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express.
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales)
-* [Express](http://expressjs.com/) The most popular framework for Node
+* [Express](http://expressjs.com/) The most popular framework for Node.
 * [Stampit](https://github.com/ericelliott/stampit) Stampit - create objects from reusable, composable behaviors. Prototypal inheritance with stamps.
-* [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential
-* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead
-* [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library
-* [json-schema](https://github.com/kriszyp/json-schema) - Great for model validations
+* [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential.
+* [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead.
+* [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library.
+* [json-schema](https://github.com/kriszyp/json-schema) - Great for model validations.
 
 
 ## Web Components
