@@ -24,33 +24,7 @@ files I'm testing with
 
 //  identify each type of change, particularly for the apostrophe, since global change (e.g., /.'./g or /(\w|\d)'(\w|\d)/g) is just too risky
 //  By making only known changes, stray apostrophes and quotes can be located easily
-var aposD = /'d\b/g;  // I'd
-var aposLl = /'ll\b/g;  //  you'll
-var aposM = /'m\b/g;  //  I'm
-var aposRe = /'re\b/g;  //  you're
-var aposS = /'s\b/g;  //  it's
-var aposT = /'t\b/g;  //  don't
-var aposVe = /'ve\b/g;  // I've
-var oAposR = /O'R/g;  //  O'Reilly
-var spaceQuot = / "\b/g;  //  open quote (eg, precedes a 'word boundary')
-var quotSpace = /\b"/g;  //  close quote (eg, is preceded by a 'word boundary')
-var spaceDashSpace = / - /g;  //  em dash
 //  not yet defined:  single quotes within double quotes
-// var spaceApos = / '/
-// var aposSpace = /' /
-
-// identify the replacements for each change above
-var rsqD = "’d";
-var rsqLl = "’ll";
-var rsqM = "’m";
-var rsqRe = "’re";
-var rsqS = "’s";
-var rsqT = "’t";
-var rsqVe = "’ve";
-var OrsqR = "O’R";
-var spaceLdq = ' “';
-var rdqSpace = '”';
-var spaceEmDashSpace = " — ";
 
 var replacements = [
     { searchFor: /'d\b/g, replaceWith: "’d"},    // I'd
