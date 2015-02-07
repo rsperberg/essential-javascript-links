@@ -8,10 +8,10 @@
 
 
 var fs = require("fs");
-var doclistPath = '/Users/sperberx/dev/essential-javascript-links/misc/';
-var doclistName = 'README-short1';
-var doclistAddon = '-new';
-var doclistExtension = '.md';
+// var doclistPath = '/Users/sperberx/dev/essential-javascript-links/misc/';
+// var doclistName = 'README-short1';
+// var doclistAddon = '-new';
+// var doclistExtension = '.md';
 
 /*
 files I'm testing with
@@ -43,10 +43,10 @@ var replacements = [
 ];
 
 /*  store components of path  */
-var pathAndFile = doclistPath + doclistName + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README.md
-var pathAndFileNew = doclistPath + doclistName+ doclistAddon + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README-new.md
+// var pathAndFile = doclistPath + doclistName + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README.md
+// var pathAndFileNew = doclistPath + doclistName+ doclistAddon + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README-new.md
 
-var aFile = fs.readFile(pathAndFile, 'utf8', function (err,data) {
+var aFile = fs.readFile('/dev/stdin', 'utf8', function (err,data) {
     if (err) {
         return console.log(err);
     }
@@ -61,7 +61,7 @@ var aFile = fs.readFile(pathAndFile, 'utf8', function (err,data) {
     var result = cleanUp(data);
 
     console.log(result);
-    console.log('got result back');
+//    console.log('got result back');
 
     // fs.writeFile(pathAndFileNew, result, function (err) {
     //   if (err) throw err;
