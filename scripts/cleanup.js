@@ -6,21 +6,7 @@
  * Original author of this script: rsperberg@gmail.com
  */
 
-
 var fs = require("fs");
-// var doclistPath = '/Users/sperberx/dev/essential-javascript-links/misc/';
-// var doclistName = 'README-short1';
-// var doclistAddon = '-new';
-// var doclistExtension = '.md';
-
-/*
-files I'm testing with
-/Users/sperberx/dev/essential-javascript-links/misc/some-wrong-apos.md
-/Users/sperberx/dev/essential-javascript-links/README.md
-/Users/sperberx/dev/essential-javascript-links/misc/README-ee.md
-/Users/sperberx/dev/essential-javascript-links/misc/README-short1.md
-*/
-
 
 //  identify each type of change, particularly for the apostrophe, since global change (e.g., /.'./g or /(\w|\d)'(\w|\d)/g) is just too risky
 //  By making only known changes, stray apostrophes and quotes can be located easily
@@ -41,11 +27,7 @@ var replacements = [
     { searchFor: /\b"/g, replaceWith: '”'},    //  close quote (eg, is preceded by a 'word boundary') needs to be set to follow punctuation as well
     { searchFor: / - /g, replaceWith: " — "}    //  em dash
 ];
-
-/*  store components of path  */
-// var pathAndFile = doclistPath + doclistName + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README.md
-// var pathAndFileNew = doclistPath + doclistName+ doclistAddon + doclistExtension;   //   /Users/sperberx/dev/essential-javascript-links/README-new.md
-
+// using package.json script: cleanup to read README.md via cat
 var aFile = fs.readFile('/dev/stdin', 'utf8', function (err,data) {
     if (err) {
         return console.log(err);
@@ -59,14 +41,7 @@ var aFile = fs.readFile('/dev/stdin', 'utf8', function (err,data) {
         return someFile;
    }
     var result = cleanUp(data);
-
+    // now pipe the result to be stored in build/README.md
     console.log(result);
-//    console.log('got result back');
-
-    // fs.writeFile(pathAndFileNew, result, function (err) {
-    //   if (err) throw err;
-    //   console.log('It\'s saved!');
-    // });
 
 });
-
