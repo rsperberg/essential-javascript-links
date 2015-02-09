@@ -81,13 +81,14 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
 
-### Lint / Quality checkers
+### Testing / Lint / Quality checkers
 
 * [JSHint](http://jshint.com/)
 * [ESLint](http://eslint.org/)
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
-* [tape](https://github.com/substack/tape) and [faucet](https://github.com/substack/faucet) for dead simple unit testing.
-* [Nightwatch](http://nightwatchjs.org/) Dead simple integration testing with Selenium
+* [tape](https://github.com/substack/tape) Minimal, dead simple unit testing. (This is all you need, really!)
+* [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
+* [Supertest](https://github.com/tj/supertest) The best way to test HTTP endpoints.
 
 
 ### Transpilers
