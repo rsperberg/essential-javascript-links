@@ -1,0 +1,20 @@
+{
+  "name": "essential-javascript-links",
+  "version": "0.0.1",
+  "description": "Essential JavaScript Links website.",
+  "scripts": {
+    "cleanup": "cat README.md | node scripts/cleanup.js > build/README.md"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsperberg/essential-javascript-links.git"
+  },
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericelliott/essential-javascript-links/issues"
+  }
+}
