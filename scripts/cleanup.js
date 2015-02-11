@@ -20,6 +20,7 @@ var replacements = [
     { searchFor: /'s\b/g, replaceWith: "’s"},    //  it's
     { searchFor: /'t\b/g, replaceWith: "’t"},   //  don't
     { searchFor: /'ve\b/g, replaceWith: "’ve"},   //  I've
+    { searchFor: /(\s)'(\d\ds)/g, replaceWith: "$1’$2"},   //  ’90s
     { searchFor: /O'R/g, replaceWith: "O’R"},    //  O'Reilly
     { searchFor: /",/g, replaceWith: ',”'},    // comma outside quote mark
     { searchFor: /"\./g, replaceWith: '.”'},    // period outside quote mark (transpose only)
