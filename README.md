@@ -1,5 +1,7 @@
 # Essential JavaScript Links
 
+read me only do not change this 
+
 A curated list by Eric Elliott and friends. Suggest links in the [gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace#comment-1365676).
 
 [Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
