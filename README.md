@@ -208,6 +208,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
 
 
+## Popular and 5 best books for javascript at beginner level 
+* https://www.digitalcrafts.com/blog/5-best-books-learn-javascript
+
 ## Twitter (alphabetical order)
 
 * [Addy Osmani](https://twitter.com/addyosmani) - App architecture expert, Chrome dev tools champion
