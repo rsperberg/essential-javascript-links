@@ -1,4 +1,4 @@
-# Essential JavaScript Links
+# Essential JavaScript Links An awesome repo for Js learners
 
 A curated list by Eric Elliott and friends. Suggest links in the [gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace#comment-1365676).
 
