@@ -1,17 +1,17 @@
-# Essential JavaScript Links
+#  Essential JavaScript Links
 
 A curated list by Eric Elliott and friends. Suggest links in the [gist comments](https://gist.github.com/ericelliott/d576f72441fc1b27dace#comment-1365676).
 
-[Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
+[Help us turn this into a proper website!]  (https://github.com/ericelliott/essential-javascript-links/issues)
 
 This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're good enough to make this list. The really curious should feel free to browse the comments to find other links. I can't guarantee the quality of links in the comments.
 
 ## Full Disclosure
 
-Some of these links are affiliate links, meaning that if you make a purchase, I might earn a little money. **This has absolutely no bearing on whether or not links make the list.** *None, whatsoever.* However, it does allow me more resources to **[fight poverty with code](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d)**. *Every little bit counts.*
+Some of these links are affiliate links, meaning that if you make a purchase, I might earn a little money. **This has absolutely no bearing on whether or not links make the list.** *None, whatsoever. However, it does allow me more resources to **[fight poverty with code](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d)**. *Every little bit counts.*
 
 
-## Required Reading (Online resources)
+## Required Reading (Online resources)------
 
 * [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - One clear path to JavaScript mastery
 * [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245) 99 out of 100 JS developers lack the skills they need to fill hundreds of thousands of jobs. We can change that.
@@ -29,7 +29,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
 
 
-## Required Viewing
+## Required Viewing---
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) - by [Eric Elliott](https://twitter.com/_ericelliott)
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) - [Jafar Husain](https://twitter.com/jhusain)
 * [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) - [David Nolen](https://twitter.com/swannodette)
@@ -38,13 +38,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey)
 
 
-## Spec
+## Spec---
 
 * [ES5 Spec](http://es5.github.io/) An annotated, hyperlinked version of the ES5 spec
 * [ES6 draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
 
 
-## Books
+## Books---
 
 * [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -58,7 +58,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI)
 
 
-## Dev tools & collaboration
+## Dev tools & collaboration---
 
 * [nvm](https://github.com/creationix/nvm) First install this...
 * [Node](http://nodejs.org/) Then install Node (with nvm). You'll need this even if you're a front-end dev.
@@ -75,13 +75,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 Fiddle](http://www.es6fiddle.net/)
 
 
-## Building
+## Building---
 
 * [Browserify](http://browserify.org/) Bundle modules for the browser.
 * [How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
 
-### Testing / Lint / Quality checkers
+### Testing / Lint / Quality checkers---
 
 * [JSHint](http://jshint.com/)
 * [ESLint](http://eslint.org/)
@@ -91,7 +91,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Supertest](https://github.com/tj/supertest) The best way to test HTTP endpoints.
 
 
-### Transpilers
+### Transpilers---
 
 * [6to5](https://github.com/6to5/6to5) (ES6)
 * [CoffeeScript](http://coffeescript.org/)
@@ -100,13 +100,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani's ES6 Tools list
 
 
-## JavaScript environments
+## JavaScript environments---
 
 * [Node.js](http://nodejs.org/) Server side JavaScript and more
 * [io.js](https://iojs.org/) - The Node fork
 
 
-## Libraries
+## Libraries---
 
 * [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready.
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
@@ -133,7 +133,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [json-schema](https://github.com/kriszyp/json-schema) - Great for model validations.
 
 
-## Web Components
+## Web Components----
 
 * [FIRST](http://addyosmani.com/first/)
 * [Polyfills](http://webcomponents.org/polyfills/)
@@ -154,7 +154,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Shippable](https://www.shippable.com/) Docker-based hosted build / CI
 
 
-## Community
+## Community---
 
 * [ES Discuss](https://esdiscuss.org/) The mailing list where all the ECMAScript standard discussion action is.
 * [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837)
@@ -165,7 +165,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * IRC #io.js irc://irc.freenode.net/io.js - the Node fork
 
 
-## News
+## News---
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Node Weekly](http://nodeweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
@@ -174,13 +174,13 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 
 
-## Pasting / sharing code
+## Pasting / sharing code---
 
 * [Codepen](http://codepen.io/pen/)
 * [RequireBin](http://requirebin.com/)
 
 
-## Contests
+## Contests---
 
 * [DemoJS](http://demojs.org/) The JavaScript demoscene party
 * [JS1k](http://js1k.com/) JavaScript demos in 1k of memory
@@ -189,7 +189,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Node Knockout](http://nodeknockout.com/) The legendary Node competition
 
 
-## Hackable Hardware
+## Hackable Hardware---
 
 * [Nodebots](http://nodebots.io/)
 * [Cylon](http://cylonjs.com/)
@@ -198,17 +198,17 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Espruino](http://www.espruino.com/)
 
 
-## Hosting
+## Hosting---
 
 * [DigitalOcean](https://www.digitalocean.com/?refcode=fdcfedac5208)
 
-## For kids (and people who just love to have fun)
+## For kids (and people who just love to have fun)---
 
 * [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
 
 
-## Twitter (alphabetical order)
+## Twitter (alphabetical order)---
 
 * [Addy Osmani](https://twitter.com/addyosmani) - App architecture expert, Chrome dev tools champion
 * [Angus Croll](https://twitter.com/angustweets) - Author, "If Hemingway Wrote JavaScript"
